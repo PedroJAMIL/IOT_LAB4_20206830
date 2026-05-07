@@ -9,6 +9,8 @@ Este proyecto es una aplicación Android desarrollada para el **Laboratorio 4** 
 
 ## Video de Presentación
 Puedes ver la explicación detallada y demostración de la aplicación en el siguiente enlace:
-[Ver Video en YouTube](https://www.youtube.com/shorts/vabrtweOSz4)
+👉 [Ver Video en YouTube](https://www.youtube.com/shorts/vabrtweOSz4)
 
+## Reporte de Prompts
+[Ver Reporte de Prompts](https://docs.google.com/spreadsheets/d/11E6ukzLjKKTWh-ByHW6hXlU3-TUsUW7UlnyV1VEwm24/edit?usp=sharing)
 
