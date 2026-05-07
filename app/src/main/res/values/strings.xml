@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IoT Lab 4 - Recetas</string>
+    <string name="titulo_app">Recetas del Mundo</string>
+    <string name="ingresar">INGRESAR</string>
+    <string name="elaborado_por">Elaborado por: Pedro Vilcayauri / 20206830</string>
+    <string name="placeholder_ingrediente">Ej: chicken_breast</string>
+    <string name="buscar">BUSCAR</string>
+    <string name="placeholder_id_meal">Ej: 52959</string>
+
+    <string name="tab_categories">Categorías</string>
+    <string name="tab_meals">Platos</string>
+    <string name="tab_recipe">Detalle</string>
+</resources>
